@@ -34,7 +34,7 @@ This dashboard provides insights into:
 #DATA CLEANING
 
 df = pd.read_excel(
-    r"C:\Users\Arun\Downloads\Online Retail Data 2009 To 2011.xlsb",
+    "Online Retail Data 2009 To 2011.xlsb",
     engine="pyxlsb"
 )
 
