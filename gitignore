@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+customer_segmentation.xlsx
+customer_lifetime_value.xlsx
+.streamlit/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
